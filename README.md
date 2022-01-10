@@ -6,5 +6,7 @@ Run `node server.js` to start the server.
 
 Run `npm run start` to start the frontend UI.
 
+You can upload image files and video files. 
+
 
 
