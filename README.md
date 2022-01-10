@@ -1,5 +1,10 @@
-Use Postman to send HTTP requests with file objects to test locally.
+Use Postman to send HTTP requests with file objects to test locally (if you're not using an interface).
 
-Run `node server.js` to start
+Choose between `single` or `multiple` image upload routes.
 
-Choose between `single` or `multiple` image uploads.
+Run `node server.js` to start the server.
+
+Run `npm run start` to start the frontend UI.
+
+
+
